@@ -78,7 +78,6 @@ li {
 
 li:hover {
     background-color: lightblue;
-    transform: translateX(5px);
 }
 
 /* Mo remove og border bottom kay ana man ka sir haha */
@@ -106,7 +105,7 @@ li:last-child {
 footer {
     text-align: center;
     background-color: lightgray;
-    width: 600px;
+    width: 93%;
     margin: 2rem auto;
     padding: 20px;
 }
